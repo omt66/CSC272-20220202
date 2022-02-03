@@ -9,7 +9,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 
 /**
- *
+ * Misc IO demos
  * @author omt
  */
 public class IODemos {
@@ -46,7 +46,6 @@ public class IODemos {
     
     /**
      * This is probably the simplest text file read demo...
-     * @throws IOException 
      */
     static void demo2() {
         System.out.println("I/O Demo2");
