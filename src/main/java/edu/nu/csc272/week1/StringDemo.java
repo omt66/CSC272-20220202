@@ -1,7 +1,7 @@
 package edu.nu.csc272.week1;
 
 /**
- *
+ * Simple String demos
  * @author omt
  */
 public class StringDemo {
@@ -12,9 +12,9 @@ public class StringDemo {
 //       demo1();
 //       demo2();
 //       demo3();
-//        demo4();
-//        demo5();
-//        demo6();
+//       demo4();
+//       demo5();
+//       demo6();
         demo7();
     }
 
@@ -155,8 +155,7 @@ public class StringDemo {
             sum += n;
         }
         avg = sum / numbers.length;
-        System.out.println("sum = " + sum + " avg: " + avg);
-        
+        System.out.println("sum = " + sum + " avg: " + avg);        
     }
     
     
